@@ -29,7 +29,7 @@
     <td align="left" width="480">
       <tr>
         <td  width="48">
-         <img  alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+         <img  alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
         </td>
         <td  width="48">
           <img  alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
@@ -37,7 +37,7 @@
       </tr>
     </td>
     <td align="right" width="480">
-    <img  alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
+    <img  alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
     </td>
 </table>
 
