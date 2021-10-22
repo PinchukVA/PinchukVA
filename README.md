@@ -7,8 +7,8 @@
 - :hammer:   My hobby is carpentery and DIY things
 
 ### Connect with me:
-[<img align="left" alt="Pinchuk Vitaly| LinkedIn" width="48px" src="." />][linkedin]
-[<img align="left" alt="Pinchuk Vitaly | Instagram" width="48px" src="" />][instagram]
+[<img align="left" alt="Pinchuk Vitaly| LinkedIn" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/linkid.png" />][linkedin]
+[<img align="left" alt="Pinchuk Vitaly | Instagram" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/insta.png" />][instagram]
 
 
 <br />
