@@ -5,7 +5,7 @@
 - 🥅 I am constantly learning new things
 - 💻 I love exploring new tech stack and building cool stuffs.
 - :hammer:   My hobby is carpentery and DIY things
-<img align="right" alt="developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+<img align="right" alt="developer" width="360px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
 
 ### Connect with me:
 [<img align="left" alt="Pinchuk Vitaly| LinkedIn" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/linkid.png" />][linkedin]
@@ -31,7 +31,7 @@
 ### Statistics:
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchukVA&langs_count=8&theme=dracula" />
 <br />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinchukVA&show_icons=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinchukVA&show_icons=true&theme=dracula" />
 
 
 [linkedin]: https://www.linkedin.com/in/vitaly-pinchuk-845182200/
