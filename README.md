@@ -11,6 +11,7 @@
 [<img align="left" alt="Pinchuk Vitaly | Instagram" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/insta.png" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -23,7 +24,7 @@
 <img align="left" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
 <img align="left" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
 <img align="left" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
-<img align="right" alt="Developer" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+<img align="right" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
 
 <br />
 
