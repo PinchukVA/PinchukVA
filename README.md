@@ -14,15 +14,15 @@
 <br />
 
 ### Languages and Tools:
-<img align="right" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
-<img align="right" alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
-<img align="right" alt="JavaScript" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/js.png" />
-<img align="right" alt="React JS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/react.png" />
-<img align="right" alt="SASS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/sass.png" />
-<img align="right" alt="Git" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/git.png" />
-<img align="right" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
-<img align="right" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
-<img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
+<img align="center" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
+<img align="center" alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
+<img align="center" alt="JavaScript" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/js.png" />
+<img align="center" alt="React JS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/react.png" />
+<img align="center" alt="SASS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/sass.png" />
+<img align="center" alt="Git" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/git.png" />
+<img align="center" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
+<img align="center" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
+<img align="center" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
 
 
 
