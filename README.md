@@ -1,4 +1,4 @@
-# Hey 👋, I'm Vitaly Pinchuck!
+# Hey 👋, I'm Vitaly Pinchuk!
 
 <!--
 **PinchukVA/PinchukVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
