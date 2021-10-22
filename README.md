@@ -26,7 +26,7 @@
 <img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" /> -->
 
 <table>
-    <td align="left" width="480">
+    <td align="left" width="120">
       <tr>
         <td  width="48">
          <img  alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
