@@ -14,17 +14,32 @@
 <br />
 
 ### Languages and Tools:
+<!-- <img align="left" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+<img align="right" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
+<img align="right" alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
+<img align="right" alt="JavaScript" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/js.png" />
+<img align="right" alt="React JS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/react.png" />
+<img align="right" alt="SASS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/sass.png" />
+<img align="right" alt="Git" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/git.png" />
+<img align="right" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
+<img align="right" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
+<img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" /> -->
 
-<img align="left" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
-<img align="left" alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
-<img align="left" alt="JavaScript" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/js.png" />
-<img align="left" alt="React JS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/react.png" />
-<img align="left" alt="SASS" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/sass.png" />
-<img align="left" alt="Git" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/git.png" />
-<img align="left" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
-<img align="left" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
-<img align="left" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
-<img align="right" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+<table>
+    <td align="left" width="480">
+    <tr>
+    <td align="left" width="48">
+    <img align="left" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+    </td>
+    <td align="left" width="48">
+    <img align="right" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
+    </td>
+    </tr>
+    </td>
+    <td align="right" width="480">
+    <img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
+    </td>
+</table>
 
 <br />
 
