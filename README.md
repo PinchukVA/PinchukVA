@@ -27,17 +27,17 @@
 
 <table>
     <td align="left" width="480">
-    <tr>
-    <td align="left" width="48">
-    <img align="left" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
-    </td>
-    <td align="left" width="48">
-    <img align="right" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
-    </td>
-    </tr>
+      <tr>
+        <td  width="48">
+         <img  alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
+        </td>
+        <td  width="48">
+          <img  alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
+        </td>
+      </tr>
     </td>
     <td align="right" width="480">
-    <img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
+    <img  alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
     </td>
 </table>
 
