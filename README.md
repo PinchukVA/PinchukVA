@@ -14,7 +14,6 @@
 <br />
 
 ### Languages and Tools:
-<!-- <img align="left" alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
 <img align="right" alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
 <img align="right" alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
 <img align="right" alt="JavaScript" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/js.png" />
@@ -23,23 +22,9 @@
 <img align="right" alt="Git" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/git.png" />
 <img align="right" alt="Webpack" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/webpack.png" />
 <img align="right" alt="Bootstrap" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/bootstrap.png" />
-<img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" /> -->
+<img align="right" alt="Figma" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/icons8-figma-48.png" />
 
-<table>
-    <td align="left" width="120">
-      <tr>
-        <td  width="48">
-         <img  alt="CSS3" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/css3.png" />
-        </td>
-        <td  width="48">
-          <img  alt="HTML5" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/html5.png" />
-        </td>
-      </tr>
-    </td>
-    <td align="right" width="480">
-    <img  alt="Developer" width="480px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/coding.gif" />
-    </td>
-</table>
+
 
 <br />
 
