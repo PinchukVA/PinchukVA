@@ -33,14 +33,14 @@
 <br />
 
 ### React & React-Redux:  
-[Сryptocurrency catalog and personal invest portfolio](https://github.com/PinchukVA/cryptocurrency-app). 
-[Multipage Task Scheduler](https://github.com/PinchukVA/JustToDo---To-Do-App).  
+[Сryptocurrency catalog and personal invest portfolio](https://github.com/PinchukVA/cryptocurrency-app).   
+[Multipage Task Scheduler](https://github.com/PinchukVA/JustToDo---To-Do-App).   
 
 
 ### Templates and layouts:  
-[Active_Box](https://github.com/PinchukVA/06-onl-01-Pinchuk-Vitaliy-ActiveBox). 
-[AXIT - simple landing](https://github.com/PinchukVA/TemplateAxit).  
-[Simple Portfolio](https://github.com/PinchukVA/simple-portfolio).  
+[Active_Box](https://github.com/PinchukVA/06-onl-01-Pinchuk-Vitaliy-ActiveBox).   
+[AXIT - simple landing](https://github.com/PinchukVA/TemplateAxit).    
+[Simple Portfolio](https://github.com/PinchukVA/simple-portfolio).    
 
 ### Statistics:
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinchukVA&langs_count=8&theme=dracula" />
